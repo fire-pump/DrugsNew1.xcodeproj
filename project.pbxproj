@@ -16,6 +16,7 @@
 		E165DEB51ACC31220076A79C /* MyTable.swift in Sources */ = {isa = PBXBuildFile; fileRef = E165DEB41ACC31220076A79C /* MyTable.swift */; };
 		E165DEB71ACC31320076A79C /* DrugViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E165DEB61ACC31320076A79C /* DrugViewCell.swift */; };
 		E165DEB91ACC31420076A79C /* Detail.swift in Sources */ = {isa = PBXBuildFile; fileRef = E165DEB81ACC31420076A79C /* Detail.swift */; };
+		E165DEBD1ACC3D280076A79C /* Drug.swift in Sources */ = {isa = PBXBuildFile; fileRef = E165DEBC1ACC3D280076A79C /* Drug.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +43,7 @@
 		E165DEB41ACC31220076A79C /* MyTable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyTable.swift; sourceTree = "<group>"; };
 		E165DEB61ACC31320076A79C /* DrugViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DrugViewCell.swift; sourceTree = "<group>"; };
 		E165DEB81ACC31420076A79C /* Detail.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Detail.swift; sourceTree = "<group>"; };
+		E165DEBC1ACC3D280076A79C /* Drug.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Drug.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 				E165DEB41ACC31220076A79C /* MyTable.swift */,
 				E165DE9D1ACC31090076A79C /* LaunchScreen.xib */,
 				E165DEB81ACC31420076A79C /* Detail.swift */,
+				E165DEBC1ACC3D280076A79C /* Drug.swift */,
 				E165DEB61ACC31320076A79C /* DrugViewCell.swift */,
 				E165DE921ACC31090076A79C /* Supporting Files */,
 			);
@@ -226,6 +229,7 @@
 				E165DE951ACC31090076A79C /* AppDelegate.swift in Sources */,
 				E165DEB71ACC31320076A79C /* DrugViewCell.swift in Sources */,
 				E165DEB51ACC31220076A79C /* MyTable.swift in Sources */,
+				E165DEBD1ACC3D280076A79C /* Drug.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
